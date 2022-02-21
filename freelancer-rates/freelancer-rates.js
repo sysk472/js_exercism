@@ -18,6 +18,7 @@
 // in idiomatic JavaScript, but some companies and style-guides do enforce them.
 //
 // Get those rates calculated!
+
 const DAILY_WORKING_HOURS = 8;
 const FULL_MONTH = 22;
 /**
